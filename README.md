@@ -3,7 +3,7 @@
 Keylogger is the action of recording the key strikes on a keyboard so that the person using the keyboard is unaware of their actions that are being monitored.
 
 I created this from my knowledge of python and networking that I learned from Zaid Sabih's Course.I took a help from google regarding the smtp server setup for email reporting.
-This uses email and password of a gmail account to send the reports to and it we have to provide the email and password respectively.
+This uses email and password of a gmail account to send the reports to and we have to provide the email and password respectively.
 
 SMTP
 I used a module named smtplib which helped me create a smtp server and use google's server for reporting.
