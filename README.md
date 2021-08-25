@@ -10,7 +10,7 @@ I used a module named smtplib which helped me create a smtp server and use googl
 
 Keyboard Listener
 It uses a pynput module from python which contains both keyboard and mouse listener which records the strikes.
-This module has nice documentation at https://pythonhosted.org/pynput/keyboard.html.Please checkout this docs before using it.
+This module has nice documentation at https://pythonhosted.org/pynput/keyboard.html. Please checkout this doc before using it.
 
 We can also convert this python file into a executable which can be run on Windows machine in the background.
 
